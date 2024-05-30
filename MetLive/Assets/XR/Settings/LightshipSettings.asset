@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: LightshipSettings
   m_EditorClassIdentifier: 
   _apiKey: sI4lt0vSCDHlGncoAEIo97BLMxeAMsbpSCS3czkYKjtziarydpeY39Fj4GJFHlZLSEF08c
-  _useLightshipDepth: 1
-  _useLightshipMeshing: 1
-  _preferLidarIfAvailable: 1
-  _useLightshipPersistentAnchor: 1
-  _useLightshipSemanticSegmentation: 1
+  _useLightshipDepth: 0
+  _useLightshipMeshing: 0
+  _preferLidarIfAvailable: 0
+  _useLightshipPersistentAnchor: 0
+  _useLightshipSemanticSegmentation: 0
   _useLightshipScanning: 1
-  _useLightshipObjectDetection: 1
+  _useLightshipObjectDetection: 0
   _unityLogLevel: 3
   _fileLogLevel: 5
   _stdoutLogLevel: 5
