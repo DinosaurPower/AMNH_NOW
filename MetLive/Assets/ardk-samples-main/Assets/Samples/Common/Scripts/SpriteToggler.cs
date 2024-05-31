@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using Unity.VectorGraphics;
+//using Unity.VectorGraphics;
 
 public class SpriteToggler : MonoBehaviour
 {
@@ -13,7 +13,7 @@ public class SpriteToggler : MonoBehaviour
     private Sprite inactiveSprite;
 
     [SerializeField]
-    private SVGImage targetButton;
+    private Image targetButton;
 
     [SerializeField]
     private AnimationToggle animatorState;

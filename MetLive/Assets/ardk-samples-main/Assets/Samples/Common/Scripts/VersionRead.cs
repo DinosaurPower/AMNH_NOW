@@ -20,7 +20,7 @@ public class VersionRead : MonoBehaviour
     {
         
         uiTextBox.text = "ARDK: " + Niantic.Lightship.AR.Settings.Metadata.Version +
-            "\n" + "Shared AR: " + Niantic.Lightship.SharedAR.Settings.Metadata.SharedArVersion +
+            //"\n" + "Shared AR: " + Niantic.Lightship.SharedAR.Settings.Metadata.SharedArVersion +
             "\n" + "Samples: " + SamplesVersion;
     }
 
